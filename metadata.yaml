@@ -1,0 +1,46 @@
+_repo: Jalkamatkoilta_72503
+_version: 0.0.1
+alternative_title: På sommarvandring. Finnish
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Suppanen, Adolf
+    - Aatto S.
+    - S., Aatto
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: https://fi.wikipedia.org/wiki/Aatto_Suppanen
+creator:
+  author:
+    agent_name: Ramsay, Anders
+    alias: Ramsay, Anders Gustaf
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '6741'
+    url: http://www.gutenberg.org/2009/agents/6741
+    wikipedia: https://fi.wikipedia.org/wiki/Anders_Gustaf_Ramsay
+description: ''
+gutenberg_issued: '2023-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72503'
+language: fi
+pgterms:marc904: https://www.doria.fi/handle/10024/101151
+pgterms:marc905: 20230817061633ramsay
+pgterms:marc906: '1891'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finland -- Description and travel'
+- !lcsh 'Hiking'
+- !lcc 'DK'
+- GITenberg
+title: Jalkamatkoilta
+url: http://www.gutenberg.org/ebooks/72503
