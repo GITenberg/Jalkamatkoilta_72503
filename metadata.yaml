@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '6674'
     url: http://www.gutenberg.org/2009/agents/6674
     wikipedia: https://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ramsay, Anders
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6741
     wikipedia: https://fi.wikipedia.org/wiki/Anders_Gustaf_Ramsay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72503#Jalkamatkoilta
 gutenberg_issued: '2023-12-25'
 gutenberg_type: Text
 identifiers:
